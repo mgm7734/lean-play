@@ -1,0 +1,3 @@
+= Lean Play
+
+Playing around with Lean
